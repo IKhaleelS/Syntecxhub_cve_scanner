@@ -120,4 +120,4 @@ Do not scan systems without proper permission.
 
 ## Author
 
-Developed by Ibrahim Shafiu (SyntecxHub) as part of a cybersecurity internship project.
+Developed by Ibrahim Shafiu (SyntecxHub) as part of a cybersecurity internship project."# Syntecxhub_cve_scanner" 
