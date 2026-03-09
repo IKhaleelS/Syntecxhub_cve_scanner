@@ -50,8 +50,8 @@ syntexhub-scanner/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/syntexhub-scanner.git
-cd syntexhub-scanner
+git clone https://github.com/IKhaleelS/Syntecxhub_cve_scanner.git
+cd Syntexhub_cve_scanner
 ```
 Install dependencies:
 
